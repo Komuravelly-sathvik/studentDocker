@@ -1,3 +1,4 @@
+![Screenshot 2025-01-30 224529](https://github.com/user-attachments/assets/7cab89a5-d375-437c-823b-11b7d4e3631d)
 1) What does your Java program do?
   I have created a Spring Boot application called Students, which manages student details.
   It allows adding, updating, deleting, and fetching student records.
